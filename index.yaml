@@ -3,7 +3,7 @@ entries:
   ejbca-community-helm:
   - apiVersion: v2
     appVersion: 8.2.0.1
-    created: "2024-08-12T14:46:31.661247993+02:00"
+    created: "2024-08-12T14:59:58.905549434+02:00"
     description: Official Keyfactor EJBCA CE Chart
     digest: 13ec4783612c03e95ae0d36cef513d235480f66b07900a46c3c60591811e688c
     home: https://www.ejbca.org/
@@ -29,7 +29,7 @@ entries:
     version: 1.0.7-semik-1.0
   - apiVersion: v2
     appVersion: 8.2.0.1
-    created: "2024-08-12T14:46:31.658259519+02:00"
+    created: "2024-08-12T14:59:58.902758625+02:00"
     description: Official Keyfactor EJBCA CE Chart
     digest: f7f8c54deef46f3fa74c8a53d0276fc9ba72b1982d51d5554379ec7635d4d9d7
     home: https://www.ejbca.org/
@@ -53,4 +53,4 @@ entries:
     urls:
     - https://semik.github.io/helm-charts/ejbca-community-helm-1.0.7-0.0.0.tgz
     version: 1.0.7-0.0.0
-generated: "2024-08-12T14:46:31.653437319+02:00"
+generated: "2024-08-12T14:59:58.898213643+02:00"
