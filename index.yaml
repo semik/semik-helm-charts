@@ -3,7 +3,7 @@ entries:
   ejbca-community-helm:
   - apiVersion: v2
     appVersion: 8.2.0.1
-    created: "2024-08-12T15:04:43.328169701+02:00"
+    created: "2024-08-12T15:10:14.578333583+02:00"
     description: Official Keyfactor EJBCA CE Chart
     digest: edebb722f38b9ed1d77a4e091e29a7c2ad31b9263a1323120a139c516faae2de
     home: https://www.ejbca.org/
@@ -25,6 +25,6 @@ entries:
     - https://github.com/Keyfactor/ejbca-community-helm
     type: application
     urls:
-    - https://semik.github.io/helm-charts/ejbca-community-helm-1.0.7-semik-0.tgz
+    - https://semik.github.io/semik-helm-charts/helm-charts/ejbca-community-helm-1.0.7-semik-0.tgz
     version: 1.0.7-semik-0
-generated: "2024-08-12T15:04:43.323420584+02:00"
+generated: "2024-08-12T15:10:14.571447239+02:00"
